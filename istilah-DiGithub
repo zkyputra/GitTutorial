@@ -1,0 +1,11 @@
+Beberapa istilah di github WPU:
+  -repo:folder projek kita
+  -Commit:rekaman/snapshot deri repo kita
+  -hash:penanda unik pada sebuah commit
+  -checkout:berpindahh kesebuah commit
+  -branch:cabang bebas dari sebuah commit
+  -merge:menggabungkan branch
+  -remote:sumber yang memiliki repo
+  -clone:mengambil repo dari remot
+  -push:mengirimkan commit ke repo
+  -pull:mengambil commit dari repo
